@@ -1,19 +1,5 @@
 $channels = @"
-https://www.youtube.com/iamjakoby
-https://www.youtube.com/c/CosmodiumCS
-https://www.youtube.com/c/zSecurity
-https://www.youtube.com/c/SystemExploited/featured
-https://www.youtube.com/c/Lab401
-https://www.youtube.com/c/TheCyberMentor
-https://www.youtube.com/c/JohnHammond010
-https://www.youtube.com/c/MalwareTechBlog
-https://www.youtube.com/c/SecurityFWD
-https://www.youtube.com/c/Nahamsec
-https://www.youtube.com/c/jhaddix
-https://www.youtube.com/c/NetworkChuck
-https://www.youtube.com/c/DavidBombal
-https://www.youtube.com/c/JimBrowning
-https://www.youtube.com/user/TechInterpreterInc
+https://youtube.com/@tnm7530
 "@
 
 $URLs = $channels -split "`n"
